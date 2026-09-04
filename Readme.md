@@ -13,6 +13,7 @@
 pacman.cmd [Command] [Packages]
 
 Commands :
+```
 
 -S[yuis] [package] -> Install [package]
 
@@ -40,6 +41,10 @@ Commands :
 
 -h, --help -> show this help message
 
--v -> verbose mode <!-- and tells you that mizuki is tuff -->
+-v -> verbose mode
+
+```
+
+<!-- and tells you that mizuki is tuff -->
 
 <sup><sub> Please dont be genderism Mizuki is very tuff </sub></sup>
